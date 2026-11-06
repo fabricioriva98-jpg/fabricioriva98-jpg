@@ -6,11 +6,12 @@
 
 ### 🚀 Sobre Mim | About Me
 
-Sou desenvolvedor de software focado em **sistemas de alta performance**, **engenharia de software moderna** e no ecossistema **Rust**. Tenho grande apreço por aplicações nativas, leves, eficientes e livres de telemetria desnecessária.
+Sou desenvolvedor de software e graduando em **Química Ambiental** pela **UTFPR** (Universidade Tecnológica Federal do Paraná). Uno a base científica em ciências exatas e ambientais à **engenharia de software moderna**, com forte foco no ecossistema **Rust**, sistemas de alta performance e computação eficiente.
 
-- 🦀 **Foco principal**: Desenvolvimento em **Rust**, aplicações de desktop nativas, ferramentas CLI e otimização de desempenho.
-- 🛠️ **Criador da [Riva Rust Store (RRS)](https://github.com/fabricioriva98-jpg/riva-rust-store)**: Uma central desktop open-source para Windows com mais de 170 ferramentas curadas, estúdio de aprendizado interativo com 80+ crates documentadas e IDE integrada.
-- 🎯 **Interesses**: Segurança de memória, arquitetura limpa, computação gráfica, compiladores e desenvolvimento de código aberto.
+- 🎓 **Formação Acadêmica**: Graduando em **Química Ambiental** na **UTFPR** (Universidade Tecnológica Federal do Paraná).
+- 🦀 **Foco Tecnológico**: Desenvolvimento em **Rust**, aplicações desktop nativas, ferramentas CLI de alto desempenho e segurança de memória.
+- 🛠️ **Criador da [Riva Rust Store (RRS)](https://github.com/fabricioriva98-jpg/riva-rust-store)**: Central desktop open-source para Windows com mais de 170 ferramentas catalogadas, estúdio interativo com 80+ crates documentadas e IDE integrada.
+- 🔬 **Interesses**: Automação científica, química computacional, tratamento e análise de dados, arquitetura de sistemas e software livre.
 - 📍 **Localização**: Curitiba - PR, Brasil
 
 ---
@@ -40,7 +41,7 @@ Sou desenvolvedor de software focado em **sistemas de alta performance**, **enge
 
 <div align="center">
 
-#### Linguagens
+#### Linguagens & Computação
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -49,12 +50,13 @@ Sou desenvolvedor de software focado em **sistemas de alta performance**, **enge
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### Frameworks & Ecossistema
+#### Frameworks, Dados & Ecossistema
 ![Tokio](https://img.shields.io/badge/Tokio-async-blue?style=for-the-badge&logo=rust)
 ![egui](https://img.shields.io/badge/egui-GUI%20Toolkit-8A2BE2?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![UTFPR](https://img.shields.io/badge/UTFPR-Qu%C3%ADmica%20Ambiental-FFCC00?style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -79,7 +81,7 @@ Sou desenvolvedor de software focado em **sistemas de alta performance**, **enge
 
 - 💻 **GitHub**: [@fabricioriva98-jpg](https://github.com/fabricioriva98-jpg)
 - ✉️ **E-mail Profissional**: [fabricioriva98@gmail.com](mailto:fabricioriva98@gmail.com)
-- 💡 Aberto para colaborações em projetos open-source e desenvolvimento de software de alta eficiência.
+- 💡 Aberto para colaborações em projetos open-source, computação científica e desenvolvimento de software de alta performance.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
