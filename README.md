@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fabricio%20Riva&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fabricioriva98-jpg/fabricioriva98-jpg/main/avatar.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 14px rgba(0,0,0,0.4);" alt="Fabricio Riva Avatar" />
+</p>
+
 ### 🚀 Sobre Mim | About Me
 
 Sou desenvolvedor de software e graduando em **Química Ambiental** pela **UTFPR** (Universidade Tecnológica Federal do Paraná). Uno a base científica em ciências exatas e ambientais à **engenharia de software moderna**, com forte foco no ecossistema **Rust**, sistemas de alta performance e computação eficiente.
